@@ -26,8 +26,6 @@ Please report bugs and suggestions for improvements to
 
 uli@bahasa.net and leander@seige.name
 
-Remove brackets and spaces from the mailaddresses to make them functional.
-
 Uli Kozok & Leander Seige
 
 Norden & Leipzig 29/6/2008
