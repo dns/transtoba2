@@ -6,7 +6,13 @@ written by leander seige, linguistics by dr. uli kozok
 released under the gnu general public license version 3
 Copyright (C) 2008 leander Seige and dr. uli kozok
 www: http://transtoba2.seige.net
-mail: transtoba2 @ seige.net or uli @ bahasa.net
+mail: leander@seige.name or uli@bahasa.net
+
+The font is (c) by Uli Kozok: https://ulikozok.com/aksara-batak/batak-font/
+
+The Liberation(tm) version 2.00.0 onward are Licensed under the SIL Open Font License, Version 1.1.
+
+The language flag icons come from Wikimedia Commons.
 
 LICENSE
 --------------------------------------------------------------------------------
@@ -36,7 +42,7 @@ of the new version.
 
 CHANGELOG
 --------------------------------------------------------------------------------
-13.05.09     0.23    - new indonesian prefilter table 
+13.05.09     0.23    - new indonesian prefilter table
 
 28.08.08     0.22    - disabled the look&feel switch, in order have space for
 		       switching fontsizes (nice menu bar planned)
@@ -64,7 +70,7 @@ CHANGELOG
 		     - changed label text to batak / indonesian to make clear
 		       that input text can also be batak
 
-14.07.08     0.15    - multilingual gui, applet parameter gui_lang accepts 
+14.07.08     0.15    - multilingual gui, applet parameter gui_lang accepts
                        "en", "id" or "de"
 		     - changed german prefilter
 
@@ -82,13 +88,13 @@ CHANGELOG
 11.07.08     0.11    - added new font, containing a lot of new int. signs)
                      - much better ("clean"? ;-) unicode 16bit support
 		     - added a new diacritic from karo batak, replacing
-		       certain occurences of H  
+		       certain occurences of H
 
 10.07.08     0.10    - added version number to ttf file name in order to force
                        the jre to reload instead of using an old cached version
 
 09.07.08     0.9     - a new ttf font, added new rules for ny(u) and c, modified
-                       the warping of the diacritics           
+                       the warping of the diacritics
 
 09.07.08     0.8     - a new ttf font, ability to use roman-style punctuation
 
