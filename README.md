@@ -4,7 +4,7 @@ This application is intended to facilitate the transliteration – or transcript
 
 ![screenshot](images/demo.png)
 
-You may compile this application using javac (see build.sh) – then you can embed it in web pages to run as an applet or launch it as a standalone application by running ```java -jar transtoba2*jar```. The application builds with java 1.5 to 1.8 with warnings. It should be fixed in the future or even reimplemented using javascript.
+You may compile this application using javac (see build.sh) – then you can embed it in web pages to run as an applet or launch it as a standalone application by running ```java -jar transtoba2*jar```. The application builds with java 1.5 to 1.8 with warnings. It should be fixed in the future or even reimplemented using javascript. The language flag icons come from Wikimedia Commons.
 
 The font is (c) by Uli Kozok: https://ulikozok.com/aksara-batak/batak-font/
 
